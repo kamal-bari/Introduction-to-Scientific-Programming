@@ -58,11 +58,11 @@ This lecture is meant to bring you to speed with the principles of writing good 
 5. Scientific Libraries
 Here you will learn about two of the most important scientific libraries that are used in the Python programming community, including NumPy and MatplotLib.
    - Matplotlib
-     (i) Introduction to MatplotLib
-     (ii) Tutorial
+     * Introduction to MatplotLib
+     * Tutorial
           - Usage Guide [https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py] <br>
-          - Pyplot tutorial [https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py]
-          - Image tutorial []https://matplotlib.org/stable/tutorials/introductory/images.html#sphx-glr-tutorials-introductory-images-py
+          - Pyplot tutorial [https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py] <br>
+          - Image tutorial [https://matplotlib.org/stable/tutorials/introductory/images.html#sphx-glr-tutorials-introductory-images-py]
    - NumPy
 7. Geocomputing
 In this topic, you will learn how to handle spatial data in the Python programming language.
