@@ -39,6 +39,8 @@ This course covers a wide range of topics offered through reading material, reco
           * Statements and Expressions in Python [https://vimeo.com/519843460/778e49d12c]
      - Functions [https://vimeo.com/519507012/46399a0929]
      - Data Structures I: List, Tuple & Strings
+          * List and Tuples [https://player.vimeo.com/video/519507152]
+          * Strings [https://vimeo.com/519507197/9c6c3d0e88]
      - Data Structures II: Dictionaries & Set
      - Iterations & Conditionals
      - File management: CSV files & data acquisition
