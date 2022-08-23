@@ -1,0 +1,102 @@
+# import os
+# print(os.getcwd())
+# #
+# os.chdir(r'C:\Users\hp\PycharmProjects\my_dir')
+# print('After: ', os.getcwd())
+
+# print (os.path.abspath('points.txt)) # What is the absolute path?
+# print (os.path.exists ('My folder')) # Does the directory/file exists?
+# print(os.path.isdir('My Folder')) # is this a directory
+# print(os.path.isfile('snark.txt')) # is this a file?
+# print(os.listdir()) # list of files and directories
+# print(os.walk('My Folder')) # get (sub) files and (sub) directories
+
+# Creating new file in write mode
+# f = open('myfile.txt', 'w')
+# print(f)
+# f.write('This is the first line\n')
+# f.write('This is the 2nd line\n')
+# f.write('This is the 3rd line\n')
+# f.close()
+#
+# f=open('myfile1.txt', 'w')
+# line = ['I want to write the 1st line\n', 'This is the second line\n', 'This is the 3rd line']
+# f.writelines(line)
+# f.close()
+
+
+# f = open('myfile.txt', 'a')
+# f.write(('This is the 4th line\n'))
+# f.close()
+
+
+# f = open('myfile.txt', 'r')
+# text = f.read()
+# print(text)
+
+# f = open('myfile.txt', 'r')
+# f.seek(0)
+# print(f.read(23))
+
+# f =open('myfile.txt', 'r')
+# for line in f:
+#     print(line, end = ' ')
+
+# f = open('myfile.txt', 'r')
+# text = f.readlines()
+# print(text)
+#
+# for i in range(len(text)):
+#     text[i] = text[i].strip()
+# print(text)
+
+#File operation without truncation
+# f=open('myfile.txt', 'r+') # content will not be deleted
+#
+# f = open('myfile', 'w+') # content will be deleted
+#f.close()
+
+#Make a file copy going by character
+
+# def copy_file(oldFile, newFile):
+#     f1 = open(oldFile, 'r')
+#     f2 = open(newFile, 'w')
+#     text = f1.read()
+#     while text!= "":
+#         f2.write(text)
+#         text=f1.read()
+#     f2.close()
+#     f1.close()
+# copy_file('myfile1.txt', 'myfile2.txt')
+
+# for rootdirectory, dirs, files in os.walk(directory):
+#     print(rootdirectory, dirs, files)
+
+# Obtaining a file through a url
+
+# import urllib.request as r
+# f= r.urlopen("https://en.wikipedia.org/wiki/Bangladesh")
+# text = f.read()
+# print(text)
+
+# def count_char(filePath):
+#     f = open(filePath)
+#     story = f.read().upper().replace('\n','').replace('\t','').replace(' ','')
+#     f.close()
+#     chars = {}  # dictionary in which (key:value) will be (character:count)
+#     for c in story:
+#         if c in chars:
+#             chars[c] = chars[c] + 1
+#     else:
+#         chars[c] = 1
+#     for c in chars:
+#         print(c, chars[c])
+
+#Reading a data .csv file
+
+# import csv
+# f = open('GPS.csv')
+# reader = csv.reader(f)
+# for line in reader:
+#     print(line)
+# f.close()
