@@ -60,7 +60,7 @@ Here you will learn about two of the most important scientific libraries that ar
    - Matplotlib
      (i) Introduction to MatplotLib
      (ii) Tutorial
-          - Usage Guide [https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py]
+          - Usage Guide [https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py] <br>
           - Pyplot tutorial [https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py]
           - Image tutorial []https://matplotlib.org/stable/tutorials/introductory/images.html#sphx-glr-tutorials-introductory-images-py
    - NumPy
