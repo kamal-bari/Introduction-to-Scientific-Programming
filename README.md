@@ -43,6 +43,8 @@ This course covers a wide range of topics offered through reading material, reco
           * Strings [https://vimeo.com/519507197/9c6c3d0e88]
      - Data Structures II: Dictionaries & Set [https://vimeo.com/519507286/5d364c317b]
      - Iterations & Conditionals
+          * Iterations [https://vimeo.com/519507234/2b85ddba2e]
+          * Conditionals [https://vimeo.com/519507075/4889ac2360]
      - File management: CSV files & data acquisition
      - Think Python Book
      - Learn Python [https://www.learnpython.org/]
