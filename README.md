@@ -35,6 +35,8 @@ This course covers a wide range of topics offered through reading material, reco
      Programming with Python
      - Introduction to Python
      - Variables, data types, statements, & expressions
+          * Variables and data types in Python [https://vimeo.com/519843920/30c36e6856]
+          * Statements and Expressions in Python [https://vimeo.com/519843460/778e49d12c]
      - Functions
      - Data Structures I: List, Tuple & Strings
      - Data Structures II: Dictionaries & Set
