@@ -45,7 +45,7 @@ This course covers a wide range of topics offered through reading material, reco
      - Iterations & Conditionals
           * Iterations [https://vimeo.com/519507234/2b85ddba2e]
           * Conditionals [https://vimeo.com/519507075/4889ac2360]
-     - File management: CSV files & data acquisition
+     - File management: CSV files & data acquisition [https://vimeo.com/519507351/5ef6035867]
      - Think Python Book
      - Learn Python [https://www.learnpython.org/]
 3. Algorithmics
