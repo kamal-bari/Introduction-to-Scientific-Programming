@@ -1,0 +1,34 @@
+#Ex. 3.4 and 3.5
+def marks(x):
+    if x < 55:
+        print("FAIL")
+    elif x >= 80 and x <= 100:
+        print("EXCELLENT!")
+    else:
+        print("PASS")
+marks(60)
+marks(40)
+marks(85)
+
+#Ex 3.6 Mapping the days
+def day_of_week(n):
+    if n == 0:
+        print("Saturday")
+    elif n == 1:
+        print("Sunday")
+    elif n==2:
+        print("Monday")
+    elif n==3:
+        print("Tuesday")
+    elif n==4:
+        print("Wednesday")
+    elif n==5:
+        print("Thursday")
+    elif n==6:
+        print("Friday")
+    else:
+        print("False")
+n = input ("Please input a number between 0 to 6: ")
+n = int(n)
+day_of_week(n)
+day_of_week(n)

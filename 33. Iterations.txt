@@ -1,0 +1,49 @@
+#Ex. 4.10
+i =1
+while i <=10:
+    print(i)
+    i = i + 1
+print("Finished")
+
+i = 0
+while i <9:
+    i = i + 1
+    if i==5 or i ==7:
+        continue
+    else:
+        print(i)
+print(1+1)
+
+#Ex.4.11
+movies = [ "The Addams Family ", " Ghostbusters ", " Jurassic Park ",
+" Pulp Fiction ", " Home Alone ", " The Matrix "]
+i = 0
+while i < len(movies):
+    print(movies[i], end= " ")
+    i = i + 1
+
+#Ex. 4.12
+
+for i in range(len(movies)):
+    print(movies[i], end =" ")
+
+#Ex. 4.13 Printing each element of nested list using loop
+tv_shows = [ [" Sherlock ␣ Holmes ", " Drama " ,2009] ,
+[" Planet ␣ Earth ", " Documentary ", 2006] ,
+[" Cosmos ", " Documentary ", 2014] ,
+["Dr.␣Who "," Science ␣ fiction ", 2005] ,
+[" Stranger ␣ Things "," Science ␣ fiction ", 2016] ,
+[" Game ␣of␣ Thrones "," Fantasy ", 2011]
+]
+
+print(tv_shows[1])
+print(tv_shows[1][0])
+print(tv_shows[5][1])
+
+print(tv_shows[-2])
+print(tv_shows[-3][-2])
+
+
+for i in tv_shows:
+    for j in i:
+        print(j)
