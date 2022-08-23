@@ -49,7 +49,7 @@ This course covers a wide range of topics offered through reading material, reco
      - Think Python Book
      - Learn Python [https://www.learnpython.org/]
 3. Algorithmics
-Programming doesn't only involve writing codes. There are other activities that come before you take your computer to start writing codes. First, there should be a problem in which programming can offer a desirable solution, quicker and precisely. Note that not all problems are solved by programming. Once you have a problem, you must think over its solution which entails a step-by-step process that should be followed. This will require an algorithm and workflow development.
+* Programming doesn't only involve writing codes. There are other activities that come before you take your computer to start writing codes. First, there should be a problem in which programming can offer a desirable solution, quicker and precisely. Note that not all problems are solved by programming. Once you have a problem, you must think over its solution which entails a step-by-step process that should be followed. This will require an algorithm and workflow development.
 
 This lecture is meant to bring you to speed with the principles of writing good codes, testing, and documenting them.
    - Introduction to Algorithmics
