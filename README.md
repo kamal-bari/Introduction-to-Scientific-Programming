@@ -32,7 +32,7 @@ This course covers a wide range of topics offered through reading material, reco
 
 ### Course content
 1. Python Basics
-   * Programming with Python
+     Programming with Python
      - Introduction to Python
      - Variables, data types, statements, & expressions
      - Functions
@@ -43,5 +43,20 @@ This course covers a wide range of topics offered through reading material, reco
      - Think Python Book
      - Learn Python [https://www.learnpython.org/]
 3. Algorithmics
-4. Scientific Libraries
-5. Geoprocessing
+Programming doesn't only involve writing codes. There are other activities that come before you take your computer to start writing codes. First, there should be a problem in which programming can offer a desirable solution, quicker and precisely. Note that not all problems are solved by programming. Once you have a problem, you must think over its solution which entails a step-by-step process that should be followed. This will require an algorithm and workflow development.
+
+This lecture is meant to bring you to speed with the principles of writing good codes, testing, and documenting them.
+   - Introduction to Algorithmics
+   - Pragmatics
+   - Recorded lecture by Rolf de By [https://vimeo.com/519507411/d07cae441c]
+5. Scientific Libraries
+Here you will learn about two of the most important scientific libraries that are used in the Python programming community, including NumPy and MatplotLib.
+   - Matplotlib
+   - NumPy
+7. Geocomputing
+In this topic, you will learn how to handle spatial data in the Python programming language.
+   - Raster Processing
+   - Vector Processing
+   - Raster-Vector Integration
+8. Quiz (Received marks 2.67/3.00)
+9. Final Exam (Received marks 41.50/50.00)
