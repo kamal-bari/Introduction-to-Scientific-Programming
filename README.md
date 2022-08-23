@@ -29,3 +29,19 @@ This course covers a wide range of topics offered through reading material, reco
 * Answers to each exercise will be published 3-days after the presentations.
 * Please start by watching the video lectures. At the same time, you can use the presentation files and also other materials that are provided to increase your knowledge about the subject. After that, you should work on the related exercise. Try to implement everything on your machine. Use the forums to get help from other students and share what you learn with them. Check your outputs with the answers that are published for each exercise after 3 days.
 * Use the discussion forum to post any questions or feedback. Peer-to-peer discussion is highly encouraged.
+
+### Course content
+1. Python Basics
+   * Programming with Python
+     - Introduction to Python
+     - Variables, data types, statements, & expressions
+     - Functions
+     - Data Structures I: List, Tuple & Strings
+     - Data Structures II: Dictionaries & Set
+     - Iterations & Conditionals
+     - File management: CSV files & data acquisition
+     - Think Python Book
+     - Learn Python [https://www.learnpython.org/]
+3. Algorithmics
+4. Scientific Libraries
+5. Geoprocessing
