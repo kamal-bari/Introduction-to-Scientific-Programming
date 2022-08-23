@@ -41,7 +41,7 @@ This course covers a wide range of topics offered through reading material, reco
      - Data Structures I: List, Tuple & Strings
           * List and Tuples [https://player.vimeo.com/video/519507152]
           * Strings [https://vimeo.com/519507197/9c6c3d0e88]
-     - Data Structures II: Dictionaries & Set
+     - Data Structures II: Dictionaries & Set [https://vimeo.com/519507286/5d364c317b]
      - Iterations & Conditionals
      - File management: CSV files & data acquisition
      - Think Python Book
