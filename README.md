@@ -68,7 +68,7 @@ Here you will learn about two of the most important scientific libraries that ar
 7. Geocomputing
 In this topic, you will learn how to handle spatial data in the Python programming language.
    - Raster Processing [https://vimeo.com/519844734/b27e1bebfc]
-   - Vector Processing
+   - Vector Processing [https://vimeo.com/519845318/83a47951e2]
    - Raster-Vector Integration
 8. Quiz (Received marks 2.67/3.00)
 9. Final Exam (Received marks 41.50/50.00)
