@@ -18,3 +18,14 @@ At the end of this course, the students should:
 9.	Work independently in developing python script to solve scientific problems by integrating knowledge on the topics covered in the course
 
 This course covers a wide range of topics offered through reading material, recorded video lectures, discussions, tutorials, and practical exercises. It covers principles of python scripting, algorithmics, scientific libraries, and geoprocessing. The course is useful for both the novice to scientific programming and the one experienced in python programming but missing the knowledge of scientific libraries or geoprocessing functionalities.
+
+### How to follow course
+Completion requirements
+This course covers a wide range of topics offered through reading material, recorded video lectures, discussions, tutorials, and practical exercises. Topics are organized into pages. Inside each page, you will find:
+
+* Links to the recorded video lectures.
+* Links to the presentation files and other reading materials.
+* Practical exercises for each topic and data resources.
+* Answers to each exercise will be published 3-days after the presentations.
+* Please start by watching the video lectures. At the same time, you can use the presentation files and also other materials that are provided to increase your knowledge about the subject. After that, you should work on the related exercise. Try to implement everything on your machine. Use the forums to get help from other students and share what you learn with them. Check your outputs with the answers that are published for each exercise after 3 days.
+* Use the discussion forum to post any questions or feedback. Peer-to-peer discussion is highly encouraged.
