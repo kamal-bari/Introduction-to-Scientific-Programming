@@ -63,6 +63,7 @@ Here you will learn about two of the most important scientific libraries that ar
           - Usage Guide [https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py] <br>
           - Pyplot tutorial [https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py] <br>
           - Image tutorial [https://matplotlib.org/stable/tutorials/introductory/images.html#sphx-glr-tutorials-introductory-images-py]
+     * Exercise
    - NumPy
 7. Geocomputing
 In this topic, you will learn how to handle spatial data in the Python programming language.
