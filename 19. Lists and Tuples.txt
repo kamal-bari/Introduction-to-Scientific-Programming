@@ -1,0 +1,55 @@
+>>> fruits = ["orange", "watermelon", "lemon", "coconut", "pineapple", "banana", "pomegranate","kiwi","grapes","apricot"]
+>>> print(fruits[1:-3])
+['watermelon', 'lemon', 'coconut', 'pineapple', 'banana', 'pomegranate']
+>>> print(fruits[:2]+["peach",99*10])
+['orange', 'watermelon', 'peach', 990]
+>>> print(2*fruits[3:6]+["cherry"])
+['coconut', 'pineapple', 'banana', 'coconut', 'pineapple', 'banana', 'cherry']
+>>> print(fruits[1::2])
+['watermelon', 'coconut', 'banana', 'kiwi', 'apricot']
+>>> print(fruits[::-1])
+['apricot', 'grapes', 'kiwi', 'pomegranate', 'banana', 'pineapple', 'coconut', 'lemon', 'watermelon', 'orange']
+>>> print(fruits[2:8:-1])
+[]
+>>> list_str = ["dear", "students", "this", "is", "a", "lsit", "of", "srt"]
+>>> print("dear" in list_str)
+True
+>>> print(-20:20)
+SyntaxError: invalid syntax
+>>> print(fruits[-20:20])
+['orange', 'watermelon', 'lemon', 'coconut', 'pineapple', 'banana', 'pomegranate', 'kiwi', 'grapes', 'apricot']
+>>> fruits[1] = "PEAR"
+>>> print(fruits)
+['orange', 'PEAR', 'lemon', 'coconut', 'pineapple', 'banana', 'pomegranate', 'kiwi', 'grapes', 'apricot']
+>>> fruits[2:4] = ["cherry", "mango"]
+>>> print(fruits)
+['orange', 'PEAR', 'cherry', 'mango', 'pineapple', 'banana', 'pomegranate', 'kiwi', 'grapes', 'apricot']
+>>> print(len(fruits))
+10
+>>> print(len(fruits[0]))
+6
+>>> food = ["bread", "milk", "rice", fruits, "olive oil", "lentils"]
+>>> print(len(food))
+6
+>>> print(len(food[3]))
+10
+>>> print(len(food[3][0]))
+6
+>>> food = food + ["beans"]
+>>> print(len(food))
+7
+>>> food[3] = food[3] + ["lime"]
+>>> print(len(food))
+7
+>>> print(food)
+['bread', 'milk', 'rice', ['orange', 'PEAR', 'cherry', 'mango', 'pineapple', 'banana', 'pomegranate', 'kiwi', 'grapes', 'apricot', 'lime'], 'olive oil', 'lentils', 'beans']
+>>> del fruits[0]
+>>> print(fruits)
+['PEAR', 'cherry', 'mango', 'pineapple', 'banana', 'pomegranate', 'kiwi', 'grapes', 'apricot']
+>>> del fruits[1:5]
+>>> print(fruits)
+['PEAR', 'pomegranate', 'kiwi', 'grapes', 'apricot']
+>>> more_fruits = fruits[:]
+>>> more_fruits.append("apple")
+>>> print(more_fruits)
+['PEAR', 'pomegranate', 'kiwi', 'grapes', 'apricot', 'apple']

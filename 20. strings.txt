@@ -1,0 +1,44 @@
+>>> print(mystring)
+we can definestrings spanningmultiple linesas one
+>>> fruit = "strawberry"
+>>> fruit[4]
+'w'
+>>> len(fruit)
+10
+>>> len("1 2 3")
+5
+>>> "pineapple".count("p")
+3
+>>> "pineapple".find("a")
+4
+>>> "pineapple".replace("apple", "kiwi")
+'pinekiwi'
+>>> "pineapple".upper()
+'PINEAPPLE'
+>>> "pineAPPLE".lower()
+'pineapple'
+>>> "pineaplle".startswith("pin")
+True
+>>> "pineapple".center(21)
+'      pineapple      '
+>>> "pineapple".zfill(15)
+'000000pineapple'
+>>> "pineapple".rjust(15)
+'      pineapple'
+>>> L = ['p', 'i', 'n', 'e','a','p','p','l','e']
+>>> "".join(L)
+'pineapple'
+>>> ",".join(L)
+'p,i,n,e,a,p,p,l,e'
+>>> berries = "cranberry rasberry blueberry strawberry"
+>>> split_berries = berries.split("")
+Traceback (most recent call last):
+  File "<pyshell#57>", line 1, in <module>
+    split_berries = berries.split("")
+ValueError: empty separator
+>>> split_berries = berries.split(" ")
+>>> print(split_berries)
+['cranberry', 'rasberry', 'blueberry', 'strawberry']
+>>> mandarin = "mandarin is a type of orange"
+>>> print(mandarin[::-1])
+egnaro fo epyt a si niradnam
